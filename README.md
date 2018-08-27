@@ -1,18 +1,14 @@
-# giphyapi
+# VueJS-giphyAPI
 
-> A Vue.js project
+<br><br>
+A giphy app made by using VUE cli by following Fatih Acet's YT tut 
+<br><br>
+(https://www.youtube.com/watch?v=KWG4TbRXU8I&list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El&index=7)
+<br><br>  
+At start it will bring trending gifs and when you make search it will bring you related search results.
+<br><br>  
+It is just a raw app so sorry for no styling for now...
+<br><br> 
+![alt text](https://raw.githubusercontent.com/mustafaeker/VueJS-giphyAPI/master/giphyAPP.png)
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
